@@ -11,3 +11,6 @@ To simulate room booking in a week for a small resort with two views (Jungle & S
 3. Text files are utilized as databases to store informtion regarding to customers, rooms and more in the system. 
 4. Taxes Imposed are service tax (10% of total room charges) and tourism tax (RM10 per night)
 5. Object Oriented Programming (OOP) concepts are implemented in this system. 
+
+## Notes:
+1. For more additional information or preview the user interfaces of the system, please refer to the system documentation provided in the repository. 
