@@ -1,0 +1,7 @@
+Room ID,Type of Room,Price,Availability,Check In Date,Check Out Date,Duration,Customer Name,Customer IC,Gender,Contact Number,Email,Payment Method
+SA-3,Sea View,350.00,N,15-04-2022,16-04-2022,1,Kua Kai Xuan,345345-34-5345,Male,018-4345 3454,kkx@gmail.com,Bank Card
+SA-4,Sea View,350.00,N,10-04-2022,12-04-2022,2,Kok Hao Yuan,567567-57-6757,Male,546-7565 6456,khy@gmail.com,Bank Card
+SA-6,Sea View,350.00,N,09-04-2022,12-04-2022,3,Lee Jun En,646546-46-5345,Female,013-3534 5345,iu@gmail.com,Bank Card
+SA-6,Sea View,350.00,N,13-04-2022,16-04-2022,3,Adam Chee,646566-76-7676,Male,016-8889 9992,adchee@gmail.com,Cash
+SA-3,Sea View,350.00,N,13-04-2022,15-04-2022,2,Lee Chong Wei,345345-35-4353,Male,646-4646 6564,lcw@gmail.com,Bank Card
+JG-10,Jungle View,350.00,N,25-04-2022,29-04-2022,4,Nur Aleesya,666464-56-7757,Female,018-3243 4465,nlessya@gmail.com,Bank Card

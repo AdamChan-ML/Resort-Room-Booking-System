@@ -1,0 +1,21 @@
+Room ID,Type of Room,Price,Availability,Check In Date,Check Out Date,Duration,Customer Name,Customer IC,Gender,Contact Number,Email,PaymentMethod,Bank Name,Card Number,Card Expiry Date,CVV
+JG-1,Jungle View,350.00,Y,
+JG-2,Jungle View,350.00,Y,
+JG-6,Jungle View,350.00,Y,
+JG-8,Jungle View,350.00,Y,
+JG-9,Jungle View,350.00,Y,
+SA-1,Sea View,350.00,Y,
+SA-2,Sea View,350.00,Y,
+SA-5,Sea View,350.00,Y,
+SA-8,Sea View,350.00,Y,
+SA-9,Sea View,350.00,Y,
+JG-3,Jungle View,350.00,Y,
+JG-5,Jungle View,350.00,Y,
+JG-7,Jungle View,350.00,Y,
+SA-6,Sea View,350.00,Y,
+SA-7,Sea View,350.00,Y,
+SA-3,Sea View,350.00,Y,
+JG-4,Jungle View,350.00,N,22-04-2022,28-04-2022,6,Kuan Yi Zhe,564564-63-4223,Male,012-8883 2954,kkyz@gmail.com,Bank Card,Maybank,5345 2564 6646 4767,12/25,343
+SA-4,Sea View,350.00,N,22-04-2022,28-04-2022,6,Chan Ming Li,345345-35-4353,Male,015-4234 2434,adam@gmail.com,Cash
+SA-10,Sea View,350.00,Y,
+JG-10,Jungle View,350.00,Y,
